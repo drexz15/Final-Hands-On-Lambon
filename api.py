@@ -16,7 +16,7 @@ mysql = MySQL(app)
 
 @app.route("/")
 def hello_world():
-    return "<p>Hello, World!</p>"
+    return "<p>Welcome to the Pilipens!</p>"
 
 
 def data_fetch(query):
