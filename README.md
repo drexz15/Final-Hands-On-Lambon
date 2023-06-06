@@ -11,7 +11,7 @@ This command will install the Flask and flaskmySQLdb to your PC.
 
 2. Configure your MySQL server. Then, open the api.py script and make sure that the database configuration in the script (MYSQL_HOST, MYSQL_USER, MYSQL_PASSWORD, and MYSQL_DB) matches the database setup on your computer. Otherwise, you will not be able to interact with the table.
 
-3.Install the Postman Software and open it to check your api if its working or not. Just Add a new collection and add request to your postman app. After that, run the api and copy the link and paste it to your request in the postman app.
+3. Install the Postman Software and open it to check your api if its working or not. Just Add a new collection and add request to your postman app. After that, run the api and copy the link and paste it to your request in the postman app.
 
 4. You can use the GET, POST, PUT, DELETE on the postman app to view, add, update, and delete a query. 
 
