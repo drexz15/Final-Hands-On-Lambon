@@ -5,6 +5,7 @@ To run the Following Script, please follow these steps.
 1. If you have Python installed in your PC, you have to install the flask. In order to install this, please open the cmd and copy paste the following commands to install the Flask.
 
 pip install flask 
+
 pip install flask-mysqldb
 
 This command will install the Flask and flaskmySQLdb to your PC.
