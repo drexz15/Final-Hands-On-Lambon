@@ -1,5 +1,5 @@
 # Final-Hands-On-Lambon
-Make sure to install postman software and also have installed python on your computer. Also, use the MySQL workbench to open your Database. The sakila database is already in your schema. (If you don't have the sakila database, I have already provided it along with the other files.
+Make sure to install postman software and have installed python on your computer. Also, use the MySQL workbench from ORACLE to open your Database. The sakila database is already in your schema. (If you don't have the sakila database, I have already provided it along with the other files.)
 
 To run the Following Script, please follow these steps.
 1. If you have Python installed in your PC, you have to install the flask. In order to install this, please open the cmd and copy paste the following commands to install the Flask.
